@@ -1,0 +1,18 @@
+
+.button{
+    -fx-text-fill: white;
+    -fx-color: rgba(97, 10, 155, 1);
+    /* -fx-color: none; */
+    -fx-font-family: 'monospace';
+    -fx-border: 0;
+    -fx-background: none;
+    color: rgba(97, 10, 155, 1);
+    /* -fx-color: none; */
+    font-family: 'monospace';
+    border: 0;
+    background: none;
+}
+.root{
+    -fx-background-color: rgb(51, 48, 48);
+    background-color: rgb(51, 48, 48);
+}
