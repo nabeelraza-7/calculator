@@ -5,7 +5,7 @@
 
 - Used recursive descent parser
 
-## Dependency Management
+## Dependencies
 
 Used JavaFx.
 Make sure you have PATH_TO_FX set in your machine to use it.
