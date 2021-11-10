@@ -7,5 +7,5 @@
 
 ## Dependencies
 
-Used JavaFx.
-Make sure you have PATH_TO_FX set in your machine to use it.
+  Used `JavaFx` Library.<br>
+  Make sure you have `PATH_TO_FX` set in your machine to use it.
